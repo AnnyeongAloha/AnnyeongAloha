@@ -13,6 +13,14 @@
 ### 🔥 Professional Compentencies 🔥
 
 
+## Business Acument Compentcy👔
+- Mission & Vision Alignment
+- Customer Oriented
+## Growth Mindset Competency🧠
+- Always curious 
+- Handling ambiguity
+- Ambition and Initiative
+- Constant improvement 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnyeongAloha&theme=midnight-purple)](https://github.com/AnnyeongAloha/github-readme-stats)
 
