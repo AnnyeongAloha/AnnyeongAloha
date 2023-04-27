@@ -6,8 +6,6 @@
 </p>
 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=AnnyeongAloha" width="110px">
-
 
 
 ### 🔥 Professional Compentencies 🔥
