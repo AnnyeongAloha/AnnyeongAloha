@@ -1,4 +1,4 @@
-![my great header](AnnyeongAloha.png)
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/JustinTabios/" target="_blank" rel="noopener
